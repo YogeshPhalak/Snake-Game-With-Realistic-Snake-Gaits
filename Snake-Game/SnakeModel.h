@@ -17,7 +17,6 @@
 void drawEnv(), unit(int, int), drawSnake();
 
 
-
 #define FORWARD 0
 #define RIGHT -0.055
 #define LEFT 0.055
